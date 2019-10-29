@@ -7,3 +7,4 @@ sub-packages).
 
 def do_something_useful():
     print('I did something REALLY useful!')
+    print('Yes.')
