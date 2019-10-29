@@ -1,0 +1,9 @@
+name: test_lightform_demo_package_env
+dependencies:
+- python>=3.6
+- pip
+- pylint       # Useful packages for developing
+- rope         # Useful packages for developing
+- autopep8     # Useful packages for developing
+- twine        # Required to allow uploading to PyPI
+- ipykernel    # Allows us to use this environment within a Jupyter notebook.
